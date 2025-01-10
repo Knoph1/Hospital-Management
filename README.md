@@ -1,7 +1,7 @@
 # Hospital Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Knoph%1-red)
+![developer]Knoph O.L A.(https://github.com/Knoph1))
 ---
-## screenshots
+## Screenshots
 ### Homepage
 ![homepage snap](https://github.com/Knoph1/hospitalmanagement/blob/master/static/screenshots/homepage.png?raw=true)
 ### Admin Dashboard
@@ -27,7 +27,7 @@
 - Can delete their appointment, when doctor attended their appointment.
 
 ### Patient
-- Create account for admit in hospital. Login (approval required by hospital admin, then only patient can login).
+- Create account for admit in hospital, Log in (approval required by hospital admin, then only patient can login).
 - Can view assigned doctor's details like (specialization, mobile, address).
 - Can view their booked appointment status (pending/confirmed by admin).
 - Can book appointments (approval required by admin).
@@ -67,7 +67,7 @@ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 https://myaccount.google.com/lesssecureapps
 ```
 ## Drawbacks/LoopHoles
-- Any one can be Admin. There is no approval required for admin account. So you can disable admin signup process and use any logic like creating superuser.
+- Any one can be Admin. There is no approval required for Admin account. So you can disable admin signup process and use any logic like creating Super_User.
 - There should be at least one doctor in hospital before admitting patient. So first add doctor.
 - On update page of doctor/patient you must have to update password.
 
