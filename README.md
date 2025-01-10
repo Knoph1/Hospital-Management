@@ -1,5 +1,5 @@
 # Hospital Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Knoph%20A.-red)
 ---
 ![developer](https://github.com/Knoph1)
 ---
