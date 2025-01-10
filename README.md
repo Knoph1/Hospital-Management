@@ -1,7 +1,6 @@
 # Hospital Management
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Knoph%20A.-red)
----
-![developer](https://github.com/Knoph1)
+[developer](https://github.com/Knoph1)
 ---
 ## screenshots
 ### Homepage
