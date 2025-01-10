@@ -14,21 +14,21 @@
 ---
 ## Functions
 ### Admin
-- Sign up their account, Log in (no approval required).
+- Sign up their account, log in (no approval required).
 - Can register/view/approve/reject/delete doctor (approve those doctor who applied for job in their hospital).
 - Can admit/view/approve/reject/discharge patient (discharge patient when treatment is done).
 - Can generate/download invoice pdf (generate Invoice according to medicine cost, room charge, doctor charge and other charge).
 - Can view/book/approve appointment (approve those appointments which is requested by patient).
 
 ### Doctor
-- Apply for job in hospital, Log in (approval required by hospital admin, then only doctor can login).
+- Apply for job in hospital, log in (approval required by hospital admin, then only doctor can login).
 - Can only view their patient details (symptoms, name, mobile ) assigned to that doctor by admin.
 - Can view their discharged (by admin) patient list.
 - Can view their appointments, booked by admin.
 - Can delete their appointment, when doctor attended their appointment.
 
 ### Patient
-- Create account for admit in hospital, Log in (approval required by hospital admin, then only patient can login).
+- Create account for admit in hospital, log in (approval required by hospital admin, then only patient can login).
 - Can view assigned doctor's details like (specialization, mobile, address).
 - Can view their booked appointment status (pending/confirmed by admin).
 - Can book appointments (approval required by admin).
@@ -83,4 +83,4 @@ Any suggestion and feedback is welcome. You can message me on facebook
 ## Work in progress, towards a final product
 I wouldn't mind help in getting more STARS for this PRODUCT (repo') as it under authorized academic, research and professional work review by several organization, six developers groups and two learning institutions: https://github.com/Knoph1/Hospital-Management Possibly GIVE IT A STAR, thanks in advance.
 Reviews/Comments & Discussions, are highly encouraged to.
-### Just fork it as on cloning, some outdated package & features need customized update
+### Just fork it as on cloning, some outdated package & features would highly need customized update(s)
