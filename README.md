@@ -81,3 +81,6 @@ Any suggestion and feedback is welcome. You can message me on facebook
 - [Contact on LinkedIn](https://www.linkedin.com/in/knoph-ayieko-83464918a)
 
 ## Work in progress, towards a final product
+I wouldn't mind help in getting more STARS for this PRODUCT (repo') as it under authorized academic, research and professional work review by several organization, six developers groups and two learning institutions: https://github.com/Knoph1/Hospital-Management Possibly GIVE IT A STAR, thanks in advance.
+Reviews/Comments & Discussions, are highly encouraged to.
+### Just fork it as on cloning, some outdated package & features need customized update
