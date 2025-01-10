@@ -1,8 +1,8 @@
 # Hospital Management
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Knoph%20A.-red)
-[developer](https://github.com/Knoph1)
+[Web App Developer](https://github.com/Knoph1)
 ---
-## screenshots
+## Screenshots
 ### Homepage
 ![homepage snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/homepage.png?raw=true)
 ### Admin Dashboard
@@ -80,4 +80,4 @@ Any suggestion and feedback is welcome. You can message me on facebook
 - [Contact on Instargram](https://www.instagram.com/knoph_ol_a)
 - [Contact on LinkedIn](https://www.linkedin.com/in/knoph-ayieko-83464918a)
 
-## Work in progress, for a final release
+## Work in progress, towards a final product
