@@ -3,7 +3,8 @@
 [Web App Developer](https://github.com/Knoph1)
 
 In courtersy of:
-- INDIA makings and Research Work (HealthCare + IT)
+- INDIAN makings and grounded Research Work
+- HealthCare & HealthIT sectors
 ---
 ## Screenshots
 ### Homepage
