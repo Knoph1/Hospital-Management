@@ -1,5 +1,5 @@
 # Hospital Management
-![developer]Knoph O.L A.(https://github.com/Knoph1))
+![developer](https://github.com/Knoph1)
 ---
 ## Screenshots
 ### Homepage
