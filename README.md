@@ -81,5 +81,5 @@ Any suggestion and feedback is welcome. You can message me on facebook
 - [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
 
 ## Parting_short
-- Closing remarks
+- Closing remarks as end finalization
 **Thank you.**
