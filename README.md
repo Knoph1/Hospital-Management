@@ -1,5 +1,5 @@
 # Hospital Management
-![developer:]Knoph O.l A.
+![Web App Developer](https://img.shields.io/badge/Developed%20By%20%3A-Knoph%20Ayieko-red)
 ---
 ## Screenshots
 ### Homepage
@@ -80,9 +80,13 @@ This project is developed for demo purpose and it's not supposed to be used in r
 ## Feedback
 Any suggestion and feedback is welcome. You can message me on facebook
 - [Contact on Instargram](https://www.instagram.com/knoph_ol_a)
-- [Contact on LinkedIn](https://www.linkedin.com/in/ knoph-ayieko-83464918a)
+- [Contact on LinkedIn](https://www.linkedin.com/in/knoph-ayieko-83464918a)
 - [Contact on GitHub](https://github.com/Knoph1)
 - [Contact on Facebook](https://web.facebook.com/noah.knock.5/)
+
+## Courtesy of:
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+**Fork & Clone**
 
 ## Conclusion
 - Closing remarks as end finalization
