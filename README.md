@@ -36,7 +36,7 @@
 ---
 
 ## HOW TO RUN THIS PROJECT
-- Install Python(3.7.6) (Dont forget to tick ADD to path while installing Python)
+- Install Python(3.7.6) (dont forget to tick **add** to path while installing Python)
 - Open terminal and execute following commands :
 ```
 pip install django==3.0.5
