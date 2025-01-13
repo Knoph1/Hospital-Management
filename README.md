@@ -24,7 +24,7 @@
 - Can only view their patient details (symptoms, name, mobile ) assigned to that doctor by admin.
 - Can view their discharged(by admin) patient list.
 - Can view their appointments, booked by admin.
-- Can delete their Appointment, when doctor attended their appointment.
+- Can delete their appointment, when doctor attended their appointment.
 
 ### Patient
 - Create account for admit in hospital, login (Approval required by hospital admin, then only patient can login).
@@ -86,7 +86,7 @@ You can message me on facebook
 - [Contact on Facebook](https://web.facebook.com/noah.knock.5/)
 
 ## Courtesy of:
-![Initial development done by:](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+!(https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
 
 - Fork & Clone
 
