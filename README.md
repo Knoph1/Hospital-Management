@@ -8,7 +8,7 @@
 ![dashboard snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_dashboard.png?raw=true)
 ### Invoice
 ![invoice snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/invoice.png?raw=true)
-### Doctor list
+### Doctor List
 ![doctor snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_doctor.png?raw=true)
 ---
 ## Functions
@@ -83,7 +83,6 @@ You can message me on facebook
 - [Contact on Instargram](https://www.instagram.com/knoph_ol_a)
 - [Contact on LinkedIn](https://www.linkedin.com/in/knoph-ayieko-83464918a)
 - [Contact on GitHub](https://github.com/Knoph1)
-- [Contact on Facebook](https://web.facebook.com/noah.knock.5/)
 
 ## Courtesy of:
 ![Jr. Software Developer](https://img.shields.io/badge/Developed%20By%20%3A-Mary%20M._M.-red)
@@ -94,10 +93,9 @@ Copyright (c) 2025
 
 Copyright (c) 2020
 
-- Fork & Clone
+- Fork & **Clone**
 
 ## Conclusion
 - Closing remarks as end finalization
 
 **Thank you**
-
