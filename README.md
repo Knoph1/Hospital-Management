@@ -93,4 +93,5 @@ You can message me on facebook
 ## Conclusion
 - Closing remarks as end finalization
 
-**Thank you.**
+**Thank you**
+
