@@ -86,7 +86,7 @@ You can message me on facebook
 - [Contact on Facebook](https://web.facebook.com/noah.knock.5/)
 
 ## Courtesy of:
-(https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
 
 - Fork & Clone
 
