@@ -87,8 +87,11 @@ You can message me on facebook
 
 ## Courtesy of:
 ![Jr. Software Developer](https://img.shields.io/badge/Developed%20By%20%3A-Mary%20M._M.-red)
+
 Copyright (c) 2025
+
 ![Developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+
 Copyright (c) 2020
 
 - Fork & Clone
