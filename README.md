@@ -13,10 +13,10 @@
 ---
 ## Functions
 ### Admin
-- Signup their account, login (No approval required).
+- Signup their account, login (no approval required).
 - Can register/view/approve/reject/delete doctor (approve those doctor who applied for job in their hospital).
 - Can admit/view/approve/reject/discharge patient (discharge patient when treatment is done).
-- Can Generate/Download Invoice pdf (Generate Invoice according to medicine cost, room charge, doctor charge and other charge).
+- Can renerate/download invoice pdf (generate Invoice according to medicine cost, room charge, doctor charge and other charge).
 - Can view/book/approve appointment (approve those appointments which is requested by patient).
 
 ### Doctor
@@ -27,24 +27,24 @@
 - Can delete their Appointment, when doctor attended their appointment.
 
 ### Patient
-- Create account for admit in hospital. Then Login (Approval required by hospital admin, Then only patient can login).
+- Create account for admit in hospital, login (Approval required by hospital admin, then only patient can login).
 - Can view assigned doctor's details like ( specialization, mobile, address).
 - Can view their booked appointment status (pending/confirmed by admin).
-- Can book appointments.(approval required by admin)
-- Can view/download invoice pdf (Only when that patient is discharged by admin).
+- Can book appointments (approval required by admin).
+- Can view/download invoice pdf (only when that patient is discharged by admin).
 
 ---
 
 ## HOW TO RUN THIS PROJECT
-- Install Python(3.7.6) (Dont forget to Tick ADD to Path while installing Python)
-- Open Terminal and Execute Following Commands :
+- Install Python(3.7.6) (Dont forget to tick ADD to path while installing Python)
+- Open terminal and execute following commands :
 ```
 pip install django==3.0.5
 pip install django-widget-tweaks
 pip install xhtml2pdf
 ```
-- Download This Project Zip Folder and Extract it
-- Move to project folder in Terminal, then run following Commands :
+- Download this project zip folder and extract it
+- Move to project folder in terminal, then run following commands :
 ```
 py manage.py makemigrations
 py manage.py migrate
@@ -78,7 +78,8 @@ https://myaccount.google.com/lesssecureapps
 This project is developed for demo purpose and it's not supposed to be used in real application.
 
 ## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
+Any suggestion and feedback is welcome.
+You can message me on facebook
 - [Contact on Instargram](https://www.instagram.com/knoph_ol_a)
 - [Contact on LinkedIn](https://www.linkedin.com/in/knoph-ayieko-83464918a)
 - [Contact on GitHub](https://github.com/Knoph1)
@@ -86,7 +87,8 @@ Any suggestion and feedback is welcome. You can message me on facebook
 
 ## Courtesy of:
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
-**Fork & Clone**
+
+- Fork & Clone
 
 ## Conclusion
 - Closing remarks as end finalization
