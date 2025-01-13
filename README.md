@@ -27,8 +27,8 @@
 - Can delete their appointment, when doctor attended their appointment.
 
 ### Patient
-- Create account for admit in hospital, login (Approval required by hospital admin, then only patient can login).
-- Can view assigned doctor's details like ( specialization, mobile, address).
+- Create account for admit in hospital, login (approval required by hospital admin, then only patient can login).
+- Can view assigned doctor's details like (specialization, mobile, address).
 - Can view their booked appointment status (pending/confirmed by admin).
 - Can book appointments (approval required by admin).
 - Can view/download invoice pdf (only when that patient is discharged by admin).
@@ -86,7 +86,7 @@ You can message me on facebook
 - [Contact on Facebook](https://web.facebook.com/noah.knock.5/)
 
 ## Courtesy of:
-!(https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+(https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
 
 - Fork & Clone
 
