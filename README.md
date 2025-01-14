@@ -84,10 +84,8 @@ You can message me on facebook
 - [Contact on LinkedIn](https://www.linkedin.com/in/knoph-ayieko-83464918a)
 - [Contact on GitHub](https://github.com/Knoph1)
 
-## Courtesy of:
-![Jr. Software Developer](https://img.shields.io/badge/Developed%20By%20%3A-Mary%20M._M.-red)
-
-Copyright (c) 2025
+## Courtesy of:  
+Initial Developer
 
 ![Developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
 
