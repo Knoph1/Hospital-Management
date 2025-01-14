@@ -89,9 +89,9 @@ Initial Developer
 
 ![Developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
 
-Copyright (c) 2020
+- Copyright (c) 2020
 
-- Fork & **Clone**
+You can **Fork** and/or **Clone**
 
 ## Conclusion
 - Closing remarks as end finalization
