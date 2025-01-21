@@ -1,7 +1,7 @@
 # Hospital Management
 ![Web App Developer](https://img.shields.io/badge/Developed%20By%20%3A-Knoph%20A.-red)
 
-> *Software origin, bases in/from **India***
+> *Software originally bases from **India***
 
 ---
 ## Screenshots
