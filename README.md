@@ -1,5 +1,5 @@
 # Hospital Management
-![Web App Developer](https://img.shields.io/badge/Developed%20By%20%3A-Knoph%20Ayieko-red)
+![Web App Developer](https://img.shields.io/badge/Developed%20By%20%3A-Knoph%20A.-red)
 ---
 ## Screenshots
 ### Homepage
