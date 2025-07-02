@@ -83,8 +83,8 @@ This project is developed for demo purpose and it's not supposed to be used in r
 ## Feedback
 Any suggestion and feedback is welcome.
 You can message me on facebook
-- [Contact on Instargram](https://www.instagram.com/knoph_ol_a)
-- [Contact on LinkedIn](https://www.linkedin.com/in/knoph-ayieko-83464918a)
+- [Contact on Instargram](https://www.instagram.com/knoph_ayieko)
+- [Contact on LinkedIn](https://www.linkedin.com/in/knoph-ayieko)
 - [Contact on GitHub](https://github.com/Knoph1)
 
 ## Courtesy of:  
